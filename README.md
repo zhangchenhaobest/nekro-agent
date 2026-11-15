@@ -1,3 +1,29 @@
+# nekro-agent
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A cross-platform agent framework for multi-user interaction with Claude Code sandbox execution, workspace orchestration, long-term memory, MCP management and a visual console, supporting QQ, Discord, Telegram and Minecraft.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向多人互动场景的跨平台 Agent 框架，集成 Claude Code 沙盒、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台，支持 QQ、Discord、Telegram、Minecraft 等。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Nekro Agent - 更智能、更优雅的代理执行 AI
 
 Switch to [English](./README_en.md)
